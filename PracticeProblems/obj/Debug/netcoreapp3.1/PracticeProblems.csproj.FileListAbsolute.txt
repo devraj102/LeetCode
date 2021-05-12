@@ -1,0 +1,13 @@
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.exe
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.deps.json
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.runtimeconfig.json
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.runtimeconfig.dev.json
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.dll
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.pdb
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.csprojAssemblyReference.cache
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.AssemblyInfoInputs.cache
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.AssemblyInfo.cs
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.csproj.CoreCompileInputs.cache
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.dll
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.pdb
+D:\Dev\Data Structure\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.genruntimeconfig.cache
