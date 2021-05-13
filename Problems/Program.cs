@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
-
+using System;
 namespace LeetCode
 {
     public static class Program
     {
         static void Main(string[] args)
         {
-            LeetCode15 approach = new LeetCode15();
-
+            LeetCode9 prog = new LeetCode9();
             #region Matrix
             int[][] arra = new int[2][];
             arra[0] = new int[] { 1, 2, 3 };
@@ -41,8 +40,8 @@ namespace LeetCode
             root.right = root2;
 
             #endregion
-
-            System.Console.WriteLine(approach.ThreeSumNewMethod(new int[] { -1, 0, 1, 2, -1, -4 }));
+            int num = Int32.MaxValue;
+            System.Console.WriteLine(prog.IsPalindrome(num));
         }
     }
 }

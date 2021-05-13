@@ -1,0 +1,12 @@
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.AssemblyInfoInputs.cache
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.AssemblyInfo.cs
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.csproj.CoreCompileInputs.cache
+/Users/devinderyadav/Dev/LeetCode/Problems/bin/Debug/netcoreapp3.1/LeetCode.deps.json
+/Users/devinderyadav/Dev/LeetCode/Problems/bin/Debug/netcoreapp3.1/LeetCode.runtimeconfig.json
+/Users/devinderyadav/Dev/LeetCode/Problems/bin/Debug/netcoreapp3.1/LeetCode.runtimeconfig.dev.json
+/Users/devinderyadav/Dev/LeetCode/Problems/bin/Debug/netcoreapp3.1/LeetCode.dll
+/Users/devinderyadav/Dev/LeetCode/Problems/bin/Debug/netcoreapp3.1/LeetCode.pdb
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.csprojAssemblyReference.cache
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.dll
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.pdb
+/Users/devinderyadav/Dev/LeetCode/Problems/obj/Debug/netcoreapp3.1/LeetCode.genruntimeconfig.cache

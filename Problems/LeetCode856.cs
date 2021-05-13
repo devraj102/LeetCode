@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace LeetCode
 {
@@ -25,7 +23,7 @@ namespace LeetCode
 
                 }
             }
-            return 0;
+            return sum;
         }
     }
 }

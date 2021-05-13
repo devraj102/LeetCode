@@ -6,7 +6,7 @@ namespace LeetCode
 {
     public class LeetCode101
     {
-        bool result = true;
+        public bool result = true;
         public bool IsSymmetric(TreeNode root)
         {
             Queue<TreeNode> queue = new Queue<TreeNode>();
